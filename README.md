@@ -1,0 +1,1 @@
+# Atividade-pr-tica-de-paradigmas-de-programa-o-em-Python
