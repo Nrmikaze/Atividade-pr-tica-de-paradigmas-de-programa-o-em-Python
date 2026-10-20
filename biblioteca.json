@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J. K. Rowling",
+        "ano": "1997",
+        "isbn": "9780000000001",
+        "disponivel": true,
+        "usuario": null
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": "1899",
+        "isbn": "9780000000003",
+        "disponivel": true,
+        "usuario": null
+    }
+]
